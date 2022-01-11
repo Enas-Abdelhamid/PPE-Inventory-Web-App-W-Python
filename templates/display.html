@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Read All PPE Items</title>
+</head>
+<body>
+<table border = 1>
+  {% for ppeitem in ppeitems %}
+  <tr>
+    <td> {{ppeitem[0]}} </td>
+    <td> {{ppeitem[1]}} </td>
+    <td> {{ppeitem[2]}} </td>
+    <td> {{ppeitem[3]}} </td>
+    <td> {{ppeitem[4]}} </td>
+    <td> {{ppeitem[5]}} </td>
+  </tr>
+  {% endfor %}
+</table>
+</body>
+</html>

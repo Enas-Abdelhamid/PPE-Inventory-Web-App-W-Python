@@ -1,0 +1,126 @@
+1628786117927	geckodriver	INFO	Listening on 127.0.0.1:64661
+1628786120971	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofile8KsFtl"
+1628786196355	geckodriver	INFO	Listening on 127.0.0.1:63069
+1628786199455	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofile3o5XKF"
+1628786200671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofile3o5XKF\\search.json.mozlz4", (void 0)))
+1628786204906	Marionette	INFO	Listening on port 61359
+1628786205333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628786209793	Marionette	INFO	Stopped listening on port 61359
+1628791461410	geckodriver	INFO	Listening on 127.0.0.1:56586
+1628791464482	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofileOowao0"
+1628791465692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofileOowao0\\search.json.mozlz4", (void 0)))
+1628791469081	Marionette	INFO	Listening on port 56594
+1628791469320	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628792165363	Marionette	INFO	Stopped listening on port 56594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofilegqxDno"
+1628792023062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofilegqxDno\\search.json.mozlz4", (void 0)))
+1628792026060	Marionette	INFO	Listening on port 59204
+[Child 22196, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628792026567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628792161173	Marionette	INFO	Stopped listening on port 59204
+8792150164	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofileLBRmgY"
+1628792150721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofileLBRmgY\\search.json.mozlz4", (void 0)))
+1628792153335	Marionette	INFO	Listening on port 54013
+[Child 18404, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1628792153869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628792158267	Marionette	INFO	Stopped listening on port 54013
+1628792197507	geckodriver	INFO	Listening on 127.0.0.1:53542
+1628792200557	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofileYDntyY"
+1628792201099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofileYDntyY\\search.json.mozlz4", (void 0)))
+1628792203606	Marionette	INFO	Listening on port 62195
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D6,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1628792203774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628792213972	Marionette	INFO	Stopped listening on port 62195
+1628792228066	geckodriver	INFO	Listening on 127.0.0.1:54577
+1628792231118	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofile6RWd7Q"
+1628792231605	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofile6RWd7Q\\search.json.mozlz4", (void 0)))
+1628792233943	Marionette	INFO	Listening on port 57780
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1628792234328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628792241375	Marionette	INFO	Stopped listening on port 57780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628792476882	geckodriver	INFO	Listening on 127.0.0.1:55425
+1628792479936	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofilecVmM5s"
+1628792480428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\eeena\\AppData\\Local\\Temp\\rust_mozprofilecVmM5s\\search.json.mozlz4", (void 0)))
+1628792482765	Marionette	INFO	Listening on port 51699
+[Child 2232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1628792483122	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628792981083	Marionette	INFO	Stopped listening on port 51699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39009A,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628792979429	Marionette	INFO	Stopped listening on port 50749
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nt signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628792977988	Marionette	INFO	Stopped listening on port 53478
