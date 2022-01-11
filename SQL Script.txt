@@ -1,0 +1,10 @@
+CREATE DATABASE PPEWATCHDOG;
+
+USE PPEWATCHDOG;
+CREATE TABLE UsersOriginalCredentials(logUserName varchar(20), logPassword varchar(20), userRole varchar(20));
+
+USE PPEWATCHDOG;
+CREATE TABLE PPEDATA(ppeSN int(10), ppeName varchar(20), ppeBrand varchar(20), ppeSupplier varchar(20), ppeLocation varchar(20), ppeQuantity int(20));
+
+USE PPEWATCHDOG;
+INSERT INTO UsersOriginalCredentials(logUserName, logPassword, userRole) VALUES ('enas', 'radwan', 'admin');
